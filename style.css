@@ -1,0 +1,101 @@
+/* navbar */
+
+/* .right-menu {
+	margin-left: 150px;
+} */
+
+.nav-item {
+	width: 91px;
+}
+
+/* this is me */
+
+.me-text a {
+	color: #fff;
+	border-color: #8793ff;
+	background-color: #8793ff;
+}
+
+.this-me{
+    background-color: rgb(226, 226, 226);
+}
+
+.me-img img{
+    width: 400px;
+
+}
+.me-text{
+    margin-top: 3rem;
+}
+
+/* about-me */
+.about-text a {
+	color: #fff;
+	border-color: #8793ff;
+	background-color: #8793ff;
+}
+
+.about-img{
+    border: 1px double #ddd;
+}
+
+.about-photo {
+    background-color: #fff;
+	width: 440px;
+	height: auto;
+}
+.about-me h2{
+    margin-top: 10px;
+}
+
+/* progress bar */
+.number-programs{
+    background: #8490ff;
+    color: #fff;
+}
+
+
+/* Economy */
+
+.Economy{
+    background-color: rgb(226, 226, 226);
+}
+
+.namber {
+	background: rgb(228, 228, 228);
+	border-radius: 50%;
+	width: 70px;
+	height: 70px;
+	margin: auto;
+	padding: 21px;
+}
+
+.text1{
+    
+}
+.text2{
+
+}
+.text3{
+
+}
+.text4{
+
+}
+/* profile */
+.image img {
+	width: 100px;
+	height: auto;
+}
+
+
+
+
+
+.contact-menu {
+	background-color: rgb(226, 226, 226);
+}
+.col-md-6.bg-light.p-3 {
+	margin-left: 116px;
+	width: 550px;
+}
